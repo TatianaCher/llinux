@@ -1,0 +1,3 @@
+/home/tatcher/Документы/linux01/linux03/CMakeFiles/rebuild_cache.dir
+/home/tatcher/Документы/linux01/linux03/CMakeFiles/edit_cache.dir
+/home/tatcher/Документы/linux01/linux03/CMakeFiles/lesson002.dir

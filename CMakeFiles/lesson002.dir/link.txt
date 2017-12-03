@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/lesson002.dir/main.cpp.o CMakeFiles/lesson002.dir/student.cpp.o  -o lesson002 -rdynamic 

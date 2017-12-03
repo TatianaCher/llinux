@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tatcher/Документы/linux01/linux03/main.cpp
+iostream
+-
+student.h
+/home/tatcher/Документы/linux01/linux03/student.h
+
+/home/tatcher/Документы/linux01/linux03/student.cpp
+iostream
+-
+student.h
+/home/tatcher/Документы/linux01/linux03/student.h
+
+/home/tatcher/Документы/linux01/linux03/student.h
+string
+-
+
